@@ -38,3 +38,15 @@ front-end and the sensors APIs.
 same data in the application.
 - Implementing error and exception handling.
 - Testing the web application to ensure functionality and reliability.
+
+- Writing proper code documentation.
+The developed solution should follow the following quality and best practices:
+- Solution and projects should be well-structured.
+- Using of object-oriented design.
+- Using functions.
+- Using versioning of the different APIs and the web application.
+- Using code conventions.
+- Follow professional code styling and formatting.
+The developed solution should NOT:
+- use any ready design template for the UI. Note this is not a design or UI module.
+- store any aggregated data in a new database
