@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\monitoringstationapi.tests\\temperaturemonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\monitoringstationapi.tests\\temperaturemonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\monitoringstationapi.tests\\rainfallmonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\monitoringstationapi.tests\\rainfallmonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\monitoringstationapi.tests\\humiditymonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\monitoringstationapi.tests\\humiditymonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\monitoringstationapi.tests\\co2emissionsmonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\monitoringstationapi.tests\\co2emissionsmonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\monitoringstationapi.tests\\airpollutionmonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\monitoringstationapi.tests\\airpollutionmonitoringcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\sensors.tests\\rainfallsensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\sensors.tests\\rainfallsensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\sensors.tests\\temperaturesensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\sensors.tests\\temperaturesensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\sensors.tests\\humiditysensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\sensors.tests\\humiditysensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\environmentalmonitorapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\environmentalmonitorapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\sensors.tests\\co2emissionssensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\sensors.tests\\co2emissionssensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\sensors.tests\\airpollutionsensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\sensors.tests\\airpollutionsensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936F7D55-B34F-4EC2-A3DA-A8AD76D291A0}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\monitoringstationapi\\migrations\\20240422195821_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936F7D55-B34F-4EC2-A3DA-A8AD76D291A0}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\migrations\\20240422195821_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230F8D0B-4433-49E0-847E-C28CDCFC2700}|SensorsAPI\\SensorsAPI.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\sensorsapi\\controllers\\temperaturesensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230F8D0B-4433-49E0-847E-C28CDCFC2700}|SensorsAPI\\SensorsAPI.csproj|solutionrelative:sensorsapi\\controllers\\temperaturesensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\environmentalmonitorapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C70387-22E5-4B35-9FC0-E9E55BFC7AA4}|EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj|solutionrelative:environmentalmonitorapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936F7D55-B34F-4EC2-A3DA-A8AD76D291A0}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\monitoringstationapi\\database\\environmentaldatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936F7D55-B34F-4EC2-A3DA-A8AD76D291A0}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\database\\environmentaldatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936F7D55-B34F-4EC2-A3DA-A8AD76D291A0}|MonitoringStationAPI\\MonitoringStationAPI.csproj|c:\\users\\nyemahame\\desktop\\environmonitor\\monitoringstationapi\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936F7D55-B34F-4EC2-A3DA-A8AD76D291A0}|MonitoringStationAPI\\MonitoringStationAPI.csproj|solutionrelative:monitoringstationapi\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperatureMonitoringControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\TemperatureMonitoringControllerTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\TemperatureMonitoringControllerTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\TemperatureMonitoringControllerTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\TemperatureMonitoringControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:50:29.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RainfallMonitoringControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\RainfallMonitoringControllerTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\RainfallMonitoringControllerTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\RainfallMonitoringControllerTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\RainfallMonitoringControllerTests.cs",
+              "ViewState": "AQIAAAQAAAAAMjMzMzMrwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:49:26.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HumidityMonitoringControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\HumidityMonitoringControllerTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\HumidityMonitoringControllerTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\HumidityMonitoringControllerTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\HumidityMonitoringControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:43:14.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CO2EmissionsMonitoringControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\CO2EmissionsMonitoringControllerTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\CO2EmissionsMonitoringControllerTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\CO2EmissionsMonitoringControllerTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\CO2EmissionsMonitoringControllerTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAABYPRIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:30:49.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirPollutionMonitoringControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\AirPollutionMonitoringControllerTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\AirPollutionMonitoringControllerTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\AirPollutionMonitoringControllerTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\MonitoringStationAPI.Tests\\AirPollutionMonitoringControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:26:42.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RainfallSensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\RainfallSensorTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\RainfallSensorTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\RainfallSensorTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\RainfallSensorTests.cs",
+              "ViewState": "AQIAAAMAAACwzMzMzMwcwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:42:21.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemperatureSensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\TemperatureSensorTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\TemperatureSensorTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\TemperatureSensorTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\TemperatureSensorTests.cs",
+              "ViewState": "AQIAAAAAAAA2MzMzMzMlwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:40:32.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HumiditySensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\HumiditySensorTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\HumiditySensorTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\HumiditySensorTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\HumiditySensorTests.cs",
+              "ViewState": "AQIAAAQAAABgMjMzMzMrwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:38:11.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnvironmentalMonitorAPI.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T22:52:23.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CO2EmissionsSensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\CO2EmissionsSensorTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\CO2EmissionsSensorTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\CO2EmissionsSensorTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\CO2EmissionsSensorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:32:15.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AirPollutionSensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\AirPollutionSensorTests.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\AirPollutionSensorTests.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\AirPollutionSensorTests.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\Sensors.Tests\\AirPollutionSensorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:55:56.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240422195821_initial_create.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\Migrations\\20240422195821_initial_create.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Migrations\\20240422195821_initial_create.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\Migrations\\20240422195821_initial_create.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Migrations\\20240422195821_initial_create.cs",
+              "ViewState": "AQIAAAMAAABwMDMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:58:22.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TemperatureSensorController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "RelativeToolTip": "SensorsAPI\\Controllers\\TemperatureSensorController.cs",
+              "ViewState": "AQIAABQAAAAANjMzMzM3wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:18:24.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EnvironmentalMonitorAPI.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "EnvironmentalMonitorAPI.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:55:55.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnvironmentalDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\Database\\EnvironmentalDataContext.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Database\\EnvironmentalDataContext.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\Database\\EnvironmentalDataContext.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Database\\EnvironmentalDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:36:28.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "MonitoringStationAPI\\Models\\Sensor.cs",
+              "ToolTip": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\Models\\Sensor.cs",
+              "RelativeToolTip": "MonitoringStationAPI\\Models\\Sensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:33:38.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

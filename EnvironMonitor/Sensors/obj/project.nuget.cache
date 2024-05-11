@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MnWaCNJGI9u2MRciLx14GYAYT1gMWGFI3VTLSZiY9uG3La88VQ8S2ObK3pKymqKvskXpfL6Qy9f7JpgicKT5pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\Sensors\\Sensors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nyemahame\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.18\\microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
+    "C:\\Users\\Nyemahame\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Nyemahame\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Nyemahame\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nyemahame\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nyemahame\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nyemahame\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
