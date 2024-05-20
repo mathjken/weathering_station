@@ -77,5 +77,20 @@ namespace RainfallMonitoringController.Controllers
 
             return NoContent();
         }
+
+        // Added method
+        [HttpGet("all")]
+        public IActionResult GetAllRainfall()
+        {
+            // Assuming 'Rainfall' is a property in the Sensor model
+            var allRainfallData = _dbContext.Sensor.Select(s => s.Rainfall).ToList();
+
+            if (!allRainfallData.Any())
+            {
+                return NotFound("No rainfall data found");
+            }
+
+            return Ok(allRainfallData);
+        }
     }
 }

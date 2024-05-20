@@ -77,5 +77,20 @@ namespace HumidityMonitoringController.Controllers
 
             return NoContent();
         }
+
+        // Added method
+        [HttpGet("all")]
+        public IActionResult GetAllHumidity()
+        {
+            // Assuming 'Humidity' is a property in the Sensor model
+            var allHumidityData = _dbContext.Sensor.Select(s => s.Humidity).ToList();
+
+            if (!allHumidityData.Any())
+            {
+                return NotFound("No humidity data found");
+            }
+
+            return Ok(allHumidityData);
+        }
     }
 }

@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\Sensors\\Sensors.csproj",
+      "projectUniqueName": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\Sensors\\Sensors.csproj",
       "projectName": "Sensors",
-      "projectPath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\Sensors\\Sensors.csproj",
+      "projectPath": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\Sensors\\Sensors.csproj",
       "packagesPath": "C:\\Users\\Nyemahame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\Sensors\\obj\\",
+      "outputPath": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\Sensors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nyemahame\\AppData\\Roaming\\NuGet\\NuGet.Config",

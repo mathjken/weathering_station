@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "yXbq5N2ueyqKBqELyFVL9/p4XuKJ8BRGmJhitY7PhG0=",
+  "Hash": "t2TbExGmamZb5C8wOrX8+/273U0AaL9wDGQV3zaOPRE=",
   "Source": "MonitoringStationAPI",
   "BasePath": "_content/MonitoringStationAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\Sensors\\Sensors.csproj",
+      "Identity": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\Sensors\\Sensors.csproj",
       "Version": 2,
       "Source": "Sensors",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

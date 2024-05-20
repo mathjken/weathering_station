@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KLyzj1FZWPH4jIRiY72AgMbYMGegGiLIvnq6pYBDwgj6M1VaHY+VIKSBQHoVRM/AMsGuQhYtbB4V7vE9PqC5qQ==",
+  "dgSpecHash": "WvO4Wph5RNVczsMNBV8ID2FqdjhTflen421U4B//V4PXzUvQp6srNJpV8W7gTk6vZSx85O/KaBYZqbWEwG4nQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\SensorsAPI\\SensorsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\SensorsAPI\\SensorsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nyemahame\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Nyemahame\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

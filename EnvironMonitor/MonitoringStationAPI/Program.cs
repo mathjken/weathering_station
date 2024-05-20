@@ -1,9 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using MonitoringStationAPI.Database;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
+using MonitoringStationAPI.Services;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddHostedService<SensorRecordingService>();
 // Add services to the container.
 builder.Services.AddControllers();
 

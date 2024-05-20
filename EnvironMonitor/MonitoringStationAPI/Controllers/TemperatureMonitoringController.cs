@@ -54,7 +54,7 @@ namespace TemperatureMonitoringController.Controllers
         [HttpGet("{id}")]
         public IActionResult GetTemperatureData(int id)
         {
-            var temperatureData = _dbContext.Sensor.FirstOrDefault(s => s.Id == id); // Changed 'id' to 'Id'
+            var temperatureData = _dbContext.Sensor.FirstOrDefault(s => s.Id == id);
             if (temperatureData == null)
             {
                 return NotFound();
@@ -76,6 +76,19 @@ namespace TemperatureMonitoringController.Controllers
             _dbContext.SaveChanges();
 
             return NoContent();
+        }
+
+        // Added method
+        [HttpGet]
+        public IActionResult GetAllTemperatureData()
+        {
+            var allTemperatureData = _dbContext.Sensor.ToList();
+            if (!allTemperatureData.Any())
+            {
+                return NotFound("No temperature data found");
+            }
+
+            return Ok(allTemperatureData);
         }
     }
 }

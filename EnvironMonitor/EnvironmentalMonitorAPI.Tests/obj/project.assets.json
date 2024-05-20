@@ -8011,11 +8011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj",
       "projectName": "EnvironmentalMonitorAPI.Tests",
-      "projectPath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj",
+      "projectPath": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\EnvironmentalMonitorAPI.Tests.csproj",
       "packagesPath": "C:\\Users\\Nyemahame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\EnvironmentalMonitorAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nyemahame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8032,8 +8032,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\MonitoringStationAPI.csproj": {
-              "projectPath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\MonitoringStationAPI.csproj"
+            "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\MonitoringStationAPI\\MonitoringStationAPI.csproj": {
+              "projectPath": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\MonitoringStationAPI\\MonitoringStationAPI.csproj"
             }
           }
         }

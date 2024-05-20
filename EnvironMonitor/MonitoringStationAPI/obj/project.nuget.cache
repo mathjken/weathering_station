@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UJrZhGgZLRlhnC4CxaqbTkvbGiw+Ls0/uisaF+VmbyYvkdbXxt7x2nEoxcnIjjpRur/Xb9LXtS5Gqx0iEL+Wcg==",
+  "dgSpecHash": "4H1y8XVxze3sesp5+B8sh2dvVeiS2vHAcXSTKgbh7OQjlE9z6Hs5m614QpFqGjO840NqDJ01OZasE+s8aZEcrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nyemahame\\Desktop\\EnvironMonitor\\MonitoringStationAPI\\MonitoringStationAPI.csproj",
+  "projectFilePath": "C:\\Users\\Nyemahame\\Desktop\\Uzoma_Weather_Api\\back_end\\EnvironMonitor\\MonitoringStationAPI\\MonitoringStationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nyemahame\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Nyemahame\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
